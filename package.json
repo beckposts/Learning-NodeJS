@@ -1,0 +1,17 @@
+{
+  "name": "learning-nodejs",
+  "version": "1.0.0",
+  "description": "Learning NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tiranga Sheetal Beck",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
